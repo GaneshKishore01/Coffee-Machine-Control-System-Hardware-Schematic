@@ -1,3 +1,9 @@
+# Coffee-Machine-Control-System-Hardware-Schematic
+This repository contains the hardware schematic for a microcontroller-based Simple Coffee Machine.
+![Image Alt](https://github.com/GaneshKishore01/Coffee-Machine-Control-System-Hardware-Schematic/blob/main/Schematic.jpeg)
+The system automates dispensing coffee powder, milk powder, water flow, heating, and final output control using an integrated electronics board.
+
+System Description
 ⭐ Overview
 
 This system automates:
